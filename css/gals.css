@@ -1,0 +1,28 @@
+*{ 
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  }
+.container{
+           margin:auto;
+           width:100%;		   
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+p{
+	text-align:center;   
+}
+h1{
+   text-align:center;
+   font-family:verdana,sans-serif;
+   color:#425fc9;
+}
+.box{
+     width:25%;
+	 padding:2px;
+}
+img{ 
+    max-width:100%;
+}	
